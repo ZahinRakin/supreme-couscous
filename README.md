@@ -6,12 +6,12 @@
 
 ## 🎯 Features
 
-* ✅ Track your progress on essential programming topics
-* 🎨 Beautiful gradient-based UI with categorized topic cards
-* 📊 Live progress bars (per category and overall)
-* 💾 State persistence via `localStorage`
-* 🔗 Embedded links to learning resources
-* 🎉 Achievement celebration on 100% completion
+- ✅ Track your progress on essential programming topics
+- 🎨 Beautiful gradient-based UI with categorized topic cards
+- 📊 Live progress bars (per category and overall)
+- 💾 State persistence via `localStorage`
+- 🔗 Embedded links to learning resources
+- 🎉 Achievement celebration on 100% completion
 
 ---
 
@@ -26,16 +26,16 @@ Topics are divided into four categories:
 
 Each topic includes:
 
-* A checkbox to mark completion
-* A link to a trusted external resource
+- A checkbox to mark completion
+- A link to a trusted external resource
 
 ---
 
 ## 🛠️ Tech Stack
 
-* **React** with functional components and hooks
-* **TailwindCSS** for UI design
-* **LocalStorage** for saving progress
+- **React** with functional components and hooks
+- **TailwindCSS** for UI design
+- **LocalStorage** for saving progress
 
 ---
 
@@ -75,10 +75,11 @@ src/
 ├── ├── ProgrammingTopicsTracker.jsx
 └── App.jsx
 ```
+
 ---
 
 ## ✨ Acknowledgments
 
-* [Tailwind CSS](https://tailwindcss.com/)
-* [GeeksforGeeks](https://www.geeksforgeeks.org/), [W3Schools](https://www.w3schools.com/), [Oracle Docs](https://docs.oracle.com/)
-* This is a personal project to track my progress for the therap javafest preparation.
+- [Tailwind CSS](https://tailwindcss.com/)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/), [W3Schools](https://www.w3schools.com/), [Oracle Docs](https://docs.oracle.com/)
+- This is a personal project to track my progress for the therap javafest preparation.

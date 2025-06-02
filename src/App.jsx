@@ -1,9 +1,7 @@
-import ProgrammingTopicsTracker from './components/ProgrammingTopicsTracker.jsx';
+import ProgrammingTopicsTracker from "./components/ProgrammingTopicsTracker.jsx";
 
 function App() {
-  return (
-    <ProgrammingTopicsTracker />
-  )
+  return <ProgrammingTopicsTracker />;
 }
 
-export default App
+export default App;
