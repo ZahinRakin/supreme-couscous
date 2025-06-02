@@ -7,13 +7,13 @@ const topics = [
     category: "Basic Programming",
     items: [
       { name: "Array manipulation", link: "https://www.w3schools.com/java/java_arrays.asp" },
-      { name: "Control flow", link: "https://www.geeksforgeeks.org/control-statements-java/" },
-      { name: "Iterative programming", link: "https://www.javatpoint.com/java-for-loop" },
+      { name: "Control flow", link: "https://www.geeksforgeeks.org/control-flow-statements-in-programming/" },
+      { name: "Iterative programming", link: "https://www.geeksforgeeks.org/iteration-statements-in-programming/" },
       { name: "Method call", link: "https://www.w3schools.com/java/java_methods.asp" },
       { name: "Basic Java", link: "https://docs.oracle.com/javase/tutorial/java/nutsandbolts/index.html" },
       { name: "Basic data type", link: "https://www.geeksforgeeks.org/data-types-in-java/" },
-      { name: "Basic knowledge of String, I/O, java.util.*, Math API", link: "https://docs.oracle.com/en/java/javase/17/docs/api/index.html" },
-      { name: "Parsing with StringTokenizer/Scanner API", link: "https://www.studytonight.com/java/reading-input-in-java.php" }
+      { name: "Basic knowledge of String, I/O, java.util.*, Math API", link: "https://docs.google.com/document/d/17eeN3lcsUTbVm0-WjIEyB8k2k7oeOwSeoPnoBUuado0/edit?usp=sharing" },
+      { name: "Parsing with StringTokenizer/Scanner API", link: "https://docs.google.com/document/d/1DYjVx0eRwauZJcy9libBBau9NcIFKfOkdKEdd9jw7CI/edit?usp=sharing" }
     ],
     color: "from-blue-500 to-cyan-500",
     bgColor: "bg-gradient-to-br from-blue-50 to-cyan-50"
@@ -22,7 +22,7 @@ const topics = [
     category: "Collection Framework",
     items: [
       { name: "Data Structure", link: "https://www.geeksforgeeks.org/data-structures/" },
-      { name: "Composite data structure", link: "https://www.baeldung.com/java-nested-collections" },
+      { name: "Composite data structure", link: "https://docs.google.com/document/d/1FOxtJgxsZu9Y6Pp3FUv5oyjhpm6s7Vmiex9TL1SRs0Q/edit?usp=sharing" },
       { name: "LinkedList manipulation", link: "https://www.w3schools.com/java/java_linkedlist.asp" },
       { name: "Stack/Queue operations", link: "https://www.programiz.com/java-programming/stack" },
       { name: "Traversing Tree data structure", link: "https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/" },
@@ -35,8 +35,8 @@ const topics = [
   {
     category: "Object Oriented Programming",
     items: [
-      { name: "Basic concept of OOP", link: "https://www.javatpoint.com/java-oops-concepts" },
-      { name: "Class design", link: "https://docs.oracle.com/javase/tutorial/java/concepts/class.html" }
+      { name: "Basic concept of OOP", link: "https://www.geeksforgeeks.org/introduction-of-object-oriented-programming/" },
+      { name: "Class design", link: "https://www.w3schools.com/java/java_classes.asp" }
     ],
     color: "from-purple-500 to-pink-500", 
     bgColor: "bg-gradient-to-br from-purple-50 to-pink-50"
