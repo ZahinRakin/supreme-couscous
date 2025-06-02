@@ -1,12 +1,90 @@
-# React + Vite
+# Programming Topics Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Programming Topics Tracker** is a visually rich, interactive learning progress tracker for fundamental programming concepts. It helps developers keep track of what they've learned and provides curated resource links for self-paced learning.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🎯 Features
 
-## Expanding the ESLint configuration
+* ✅ Track your progress on essential programming topics
+* 🎨 Beautiful gradient-based UI with categorized topic cards
+* 📊 Live progress bars (per category and overall)
+* 💾 State persistence via `localStorage`
+* 🔗 Embedded links to learning resources
+* 🎉 Achievement celebration on 100% completion
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📚 Topics Covered
+
+Topics are divided into four categories:
+
+1. **Basic Programming**
+2. **Collection Framework**
+3. **Object Oriented Programming**
+4. **Puzzles**
+
+Each topic includes:
+
+* A checkbox to mark completion
+* A link to a trusted external resource
+
+---
+
+## 🛠️ Tech Stack
+
+* **React** with functional components and hooks
+* **TailwindCSS** for UI design
+* **LocalStorage** for saving progress
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/ZahinRakin/supreme-couscous.git
+cd supreme-couscous
+```
+
+### 2. Install Dependencies
+
+```bash
+npm install
+```
+
+### 3. Run the App
+
+```bash
+npm run dev
+```
+
+Your app will be running at `http://localhost:5173/` (Vite default).
+
+---
+
+## 📁 Project Structure
+
+```
+src/
+├── components/
+│   ├── ui/
+│   │   ├── card.jsx
+│   │   └── checkbox.jsx
+├── ├── ProgrammingTopicsTracker.jsx
+└── App.jsx
+```
+---
+
+## 📜 License
+
+This project is open-source under the [MIT License](LICENSE).
+
+---
+
+## ✨ Acknowledgments
+
+* [Tailwind CSS](https://tailwindcss.com/)
+* [GeeksforGeeks](https://www.geeksforgeeks.org/), [W3Schools](https://www.w3schools.com/), [Oracle Docs](https://docs.oracle.com/)
+* This is a personal project to track my progress for the therap javafest preparation.
